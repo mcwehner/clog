@@ -1,0 +1,8 @@
+PyYAML==3.10
+Twisted==12.0.0
+ipython==0.12
+pyOpenSSL==0.13
+-e git+https://github.com/mariano/pyfire.git@245c2f1d3704422b53e2cce8d637833073bc2cdf#egg=pyfire-dev
+readline==6.2.2
+wsgiref==0.1.2
+zope.interface==3.8.0
